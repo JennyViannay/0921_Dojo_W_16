@@ -1,0 +1,23 @@
+{
+  "name": "0921_dojo_w_16",
+  "version": "1.0.0",
+  "description": "# Group Strings by Length",
+  "main": "groupByLength.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JennyViannay/0921_Dojo_W_16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JennyViannay/0921_Dojo_W_16/issues"
+  },
+  "homepage": "https://github.com/JennyViannay/0921_Dojo_W_16#readme",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
